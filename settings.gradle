@@ -1,2 +1,3 @@
 rootProject.name = 'durex'
+include 'cat-home-web'
 

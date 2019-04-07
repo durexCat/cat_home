@@ -2,6 +2,10 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="durex.cat-home-web.main" target="1.8" />
+      <module name="durex.cat-home-web.test" target="1.8" />
+      <module name="durex.durex-web.main" target="1.8" />
+      <module name="durex.durex-web.test" target="1.8" />
       <module name="durex.main" target="1.8" />
       <module name="durex.test" target="1.8" />
     </bytecodeTargetLevel>

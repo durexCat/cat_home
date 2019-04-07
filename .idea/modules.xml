@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/durex.iml" filepath="$PROJECT_DIR$/.idea/modules/durex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/durex-web.iml" filepath="$PROJECT_DIR$/.idea/modules/durex-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cat-home-web/durex.cat-home-web.iml" filepath="$PROJECT_DIR$/.idea/modules/cat-home-web/durex.cat-home-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cat-home-web/durex.cat-home-web.main.iml" filepath="$PROJECT_DIR$/.idea/modules/cat-home-web/durex.cat-home-web.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cat-home-web/durex.cat-home-web.test.iml" filepath="$PROJECT_DIR$/.idea/modules/cat-home-web/durex.cat-home-web.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/durex.main.iml" filepath="$PROJECT_DIR$/.idea/modules/durex.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/durex.test.iml" filepath="$PROJECT_DIR$/.idea/modules/durex.test.iml" />
     </modules>
