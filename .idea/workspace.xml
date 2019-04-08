@@ -7,65 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9140df7e-0b82-4104-8323-0ed3ea42b088" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/cat-home-web/durex.cat-home-web.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/cat-home-web/durex.cat-home-web.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/cat-home-web/durex.cat-home-web.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/durex-web.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat-home-web/build/classes/java/main/durex/cat/home/controller/IndexController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat-home-web/build/libs/durex-1.0-SNAPSHOT.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat-home-web/build/libs/exploded/durex-1.0-SNAPSHOT.war/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat-home-web/build/libs/exploded/durex-1.0-SNAPSHOT.war/WEB-INF/classes/durex/cat/home/controller/IndexController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat-home-web/build/libs/exploded/durex-1.0-SNAPSHOT.war/WEB-INF/lib/spring-aop-5.0.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat-home-web/build/libs/exploded/durex-1.0-SNAPSHOT.war/WEB-INF/lib/spring-beans-5.0.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat-home-web/build/libs/exploded/durex-1.0-SNAPSHOT.war/WEB-INF/lib/spring-context-5.0.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat-home-web/build/libs/exploded/durex-1.0-SNAPSHOT.war/WEB-INF/lib/spring-core-5.0.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat-home-web/build/libs/exploded/durex-1.0-SNAPSHOT.war/WEB-INF/lib/spring-expression-5.0.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat-home-web/build/libs/exploded/durex-1.0-SNAPSHOT.war/WEB-INF/lib/spring-jcl-5.0.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat-home-web/build/libs/exploded/durex-1.0-SNAPSHOT.war/WEB-INF/lib/spring-web-5.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat-home-web/build/libs/exploded/durex-1.0-SNAPSHOT.war/WEB-INF/lib/spring-webmvc-5.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat-home-web/build/resources/main/spring-mvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat-home-web/build/tmp/war/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat-home-web/out/production/classes/durex/cat/home/controller/IndexController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat-home-web/out/production/resources/spring-mvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat-home-web/src/main/resources/spring-mvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat-home-web/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat-home-web/src/main/webapp/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cat-home-web/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Gradle___durex___durex_1_0_SNAPSHOT_war__exploded_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/Gradle___durex___durex_1_0_SNAPSHOT_war__exploded_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/durex.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/durex.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/durex.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/durex.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/durex.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/durex.test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/durex/cat/home/controller/IndexController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/durex-1.0-SNAPSHOT.war" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/durex-1.0-SNAPSHOT.war/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/durex-1.0-SNAPSHOT.war/WEB-INF/classes/durex/cat/home/controller/IndexController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/durex-1.0-SNAPSHOT.war/WEB-INF/classes/spring-mvc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/durex-1.0-SNAPSHOT.war/WEB-INF/lib/spring-aop-5.0.5.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/durex-1.0-SNAPSHOT.war/WEB-INF/lib/spring-beans-5.0.5.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/durex-1.0-SNAPSHOT.war/WEB-INF/lib/spring-context-5.0.5.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/durex-1.0-SNAPSHOT.war/WEB-INF/lib/spring-core-5.0.5.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/durex-1.0-SNAPSHOT.war/WEB-INF/lib/spring-expression-5.0.5.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/durex-1.0-SNAPSHOT.war/WEB-INF/lib/spring-jcl-5.0.5.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/durex-1.0-SNAPSHOT.war/WEB-INF/lib/spring-web-5.0.4.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/durex-1.0-SNAPSHOT.war/WEB-INF/lib/spring-webmvc-5.0.4.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/durex-1.0-SNAPSHOT.war/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/durex-1.0-SNAPSHOT.war/home.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/exploded/durex-1.0-SNAPSHOT.war/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/spring-mvc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/durex/cat/home/controller/IndexController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/spring-mvc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/durex/cat/home/controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cat-home-web/src/main/java/durex/cat/home/controller/IndexController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/durex/cat/home/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/cat-home-web/src/main/java/durex/cat/home/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cat-home-web/build/libs/exploded/durex-1.0-SNAPSHOT.war/WEB-INF/classes/spring-mvc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cat-home-web/build/libs/exploded/durex-1.0-SNAPSHOT.war/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/cat-home-web/build/libs/exploded/durex-1.0-SNAPSHOT.war/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/cat-home-web/build/libs/exploded/durex-1.0-SNAPSHOT.war/index.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -113,58 +55,7 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cat-home-web/src/main/java/durex/cat/home/controller/IndexController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#350#351#0" expanded="true" />
-                <element signature="e#379#380#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cat-home-web/src/main/resources/spring-mvc.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cat-home-web/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/settings.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -196,30 +87,19 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="durex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cat_home" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="durex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cat_home" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="cat-home-web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="durex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cat_home" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="cat-home-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cat_home" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -259,7 +139,7 @@
       <deployment>
         <artifact name="Gradle : durex : durex-1.0-SNAPSHOT.war">
           <settings>
-            <option name="CONTEXT_PATH" value="/Gradle___durex___durex_1_0_SNAPSHOT_war" />
+            <option name="CONTEXT_PATH" value="/" />
           </settings>
         </artifact>
       </deployment>
@@ -338,7 +218,8 @@
       <option name="presentableId" value="Default" />
       <updated>1554647597492</updated>
       <workItem from="1554647599688" duration="158000" />
-      <workItem from="1554647772459" duration="1717000" />
+      <workItem from="1554647772459" duration="1781000" />
+      <workItem from="1554725320599" duration="762000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1554648234012</created>
@@ -347,41 +228,47 @@
       <option name="project" value="LOCAL" />
       <updated>1554648234012</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first commit">
+      <created>1554649540523</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1554649540523</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1875000" />
+    <option name="totallyTimeSpent" value="2701000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info id="Web" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2677761" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27155825" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Build" weight="0.33835846" />
-      <window_info anchor="bottom" id="Application Servers" weight="0.32998326" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Messages" weight="0.32998326" />
-      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.38693467" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3685092" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32998326" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32998326" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3283082" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="right" id="Gradle" visible="true" weight="0.14750378" />
+      <window_info anchor="bottom" id="Build" order="12" weight="0.33835846" />
+      <window_info anchor="bottom" id="Application Servers" order="13" weight="0.32998326" />
+      <window_info anchor="bottom" id="Spring" order="14" />
+      <window_info anchor="bottom" id="Java Enterprise" order="15" />
+      <window_info anchor="bottom" id="Messages" order="16" weight="0.32998326" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -391,6 +278,7 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Gradle" order="9" visible="true" weight="0.14750378" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -414,18 +302,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/cat-home-web/src/main/java/durex/cat/home/controller/IndexController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#350#351#0" expanded="true" />
-            <element signature="e#379#380#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cat-home-web/src/main/resources/spring-mvc.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -451,6 +327,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cat-home-web/src/main/java/durex/cat/home/controller/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
